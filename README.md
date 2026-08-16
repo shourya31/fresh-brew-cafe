@@ -13,7 +13,8 @@ A responsive landing page for a fictional cafe, built to practice HTML, CSS, and
 - CSS3 (Flexbox, Grid)
 
 ## Preview
-*(screenshot yahan add karoge)*
+<img width="1470" height="956" alt="Screenshot 2026-08-16 at 12 10 49 PM" src="https://github.com/user-attachments/assets/36141ece-b6dc-4a53-9a2f-fcb32ba57187" />
+
 
 ## What I learned
 - Structuring a multi-section page semantically
