@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #2c2c2c;
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+  }
+  
+  header h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+  }
+  
+  header p {
+    font-size: 18px;
+    color: #cccccc;
+    margin-bottom: 30px;
+  }
+  
+  button {
+    background-color: #d4a373;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #b5895f;
+  }.menu {
+    text-align: center;
+    padding: 60px 20px;
+  }
+  
+  .menu h2 {
+    font-size: 32px;
+    margin-bottom: 40px;
+  }
+  
+  .menu-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .menu-item {
+    background-color: #f5f0eb;
+    padding: 30px 20px;
+    border-radius: 8px;
+  }
+  
+  .menu-item h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  
+  .menu-item p {
+    color: #555555;
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  
+  .price {
+    font-weight: bold;
+    color: #d4a373;
+    font-size: 18px;
+  }footer {
+    background-color: #2c2c2c;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+  }
+  
+  footer h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  footer p {
+    color: #cccccc;
+    font-size: 14px;
+    margin-bottom: 8px;
+  }
+  
+  .contact {
+    color: #d4a373 !important;
+    font-weight: bold;
+    margin-top: 10px;
+  }
